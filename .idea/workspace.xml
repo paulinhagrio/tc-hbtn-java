@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da436523-3e22-4c2a-85a5-651db266d37a" name="Changes" comment="apagando linhas desnecessarias_3">
-      <change afterPath="$PROJECT_DIR$/0x00-java-hello_world/PrintStringVariable.java" afterDir="false" />
+    <list default="true" id="da436523-3e22-4c2a-85a5-651db266d37a" name="Changes" comment="utilizando substring">
+      <change afterPath="$PROJECT_DIR$/0x00-java-hello_world/PrintStringConcat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrintStringVariable">
+  <component name="RunManager" selected="Application.PrintStringConcat">
     <configuration name="PrintFloatVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrintFloatVariable" />
       <module name="tc-hbtn-java" />
@@ -48,6 +48,13 @@
     </configuration>
     <configuration name="PrintIntegerVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrintIntegerVariable" />
+      <module name="tc-hbtn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintStringConcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintStringConcat" />
       <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintStringConcat" />
         <item itemvalue="Application.PrintStringVariable" />
         <item itemvalue="Application.PrintFloatVariable" />
         <item itemvalue="Application.PrintIntegerVariable" />
@@ -134,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651517643086</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="utilizando substring">
+      <created>1651519106680</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1651519106680</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +170,7 @@
     <MESSAGE value="apagando linhas desnecessarias" />
     <MESSAGE value="apagando linhas desnecessarias_2" />
     <MESSAGE value="apagando linhas desnecessarias_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="apagando linhas desnecessarias_3" />
+    <MESSAGE value="utilizando substring" />
+    <option name="LAST_COMMIT_MESSAGE" value="utilizando substring" />
   </component>
 </project>
