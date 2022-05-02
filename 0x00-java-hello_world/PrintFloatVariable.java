@@ -4,4 +4,3 @@ public class PrintFloatVariable {
         System.out.printf("Valor de pi: %.3f\n", pi);
     }
 }
-

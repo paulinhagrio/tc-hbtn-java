@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da436523-3e22-4c2a-85a5-651db266d37a" name="Changes" comment="utilizando o float" />
+    <list default="true" id="da436523-3e22-4c2a-85a5-651db266d37a" name="Changes" comment="apagando linhas desnecessarias">
+      <change beforePath="$PROJECT_DIR$/0x00-java-hello_world/PrintFloatVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-java-hello_world/PrintFloatVariable.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651516988864</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="apagando linhas desnecessarias">
+      <created>1651517308166</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651517308166</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +129,7 @@
     <MESSAGE value="Primeiro arquivo Java" />
     <MESSAGE value="Escrevendo um endereço em java" />
     <MESSAGE value="utilizando o float" />
-    <option name="LAST_COMMIT_MESSAGE" value="utilizando o float" />
+    <MESSAGE value="apagando linhas desnecessarias" />
+    <option name="LAST_COMMIT_MESSAGE" value="apagando linhas desnecessarias" />
   </component>
 </project>
