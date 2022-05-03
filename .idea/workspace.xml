@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da436523-3e22-4c2a-85a5-651db266d37a" name="Changes" comment="incluindo interrogação">
-      <change afterPath="$PROJECT_DIR$/0x00-java-hello_world/PrintFormatacaoNumeros.java" afterDir="false" />
+    <list default="true" id="da436523-3e22-4c2a-85a5-651db266d37a" name="Changes" comment="Formantando Numeros">
+      <change afterPath="$PROJECT_DIR$/0x01-numeros/Numeros0a99.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tc-hbtn-java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrintFormatacaoNumeros">
+  <component name="RunManager" selected="Application.Numeros0a99">
+    <configuration name="Numeros0a99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Numeros0a99" />
+      <module name="tc-hbtn-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrintFloatVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrintFloatVariable" />
       <module name="tc-hbtn-java" />
@@ -48,13 +56,6 @@
     </configuration>
     <configuration name="PrintFormatacaoNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrintFormatacaoNumeros" />
-      <module name="tc-hbtn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintIntegerVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintIntegerVariable" />
       <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Numeros0a99" />
         <item itemvalue="Application.PrintFormatacaoNumeros" />
         <item itemvalue="Application.PrintStringConcat" />
         <item itemvalue="Application.PrintStringVariable" />
         <item itemvalue="Application.PrintFloatVariable" />
-        <item itemvalue="Application.PrintIntegerVariable" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651520439982</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Formantando Numeros">
+      <created>1651523448680</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1651523448680</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +195,7 @@
     <MESSAGE value="utilizando substring" />
     <MESSAGE value="Concatenando strings" />
     <MESSAGE value="incluindo interrogação" />
-    <option name="LAST_COMMIT_MESSAGE" value="incluindo interrogação" />
+    <MESSAGE value="Formantando Numeros" />
+    <option name="LAST_COMMIT_MESSAGE" value="Formantando Numeros" />
   </component>
 </project>
