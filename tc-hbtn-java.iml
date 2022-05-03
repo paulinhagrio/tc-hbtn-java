@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/0x01" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x01-numeros" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x01/numeros" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x01/pares" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
