@@ -1,4 +1,4 @@
-public class Program {
+public class Program_c {
     public static void main(String[] args) {
 
         boolean caractereEhMaiusculo1 = Caractere.EhMaiusculo('a');

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da436523-3e22-4c2a-85a5-651db266d37a" name="Changes" comment="Numeros Pares">
-      <change afterPath="$PROJECT_DIR$/0x01/maiusculo/Caractere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x01/maiusculo/Program.java" afterDir="false" />
+    <list default="true" id="da436523-3e22-4c2a-85a5-651db266d37a" name="Changes" comment="Letras maiúsculas">
+      <change afterPath="$PROJECT_DIR$/0x01/somar/Numero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x01/somar/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,11 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Program">
     <configuration name="Numeros0a99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Numeros0a99" />
@@ -56,15 +61,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintFormatacaoNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintFormatacaoNumeros" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program" />
       <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program" />
+    <configuration name="Program_c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program_c" />
       <module name="tc-hbtn-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,10 +91,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Program_c" />
         <item itemvalue="Application.NumerosPares" />
         <item itemvalue="Application.Numeros0a99" />
         <item itemvalue="Application.numeros.Numeros0a99" />
-        <item itemvalue="Application.PrintFormatacaoNumeros" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651606067912</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Letras maiúsculas">
+      <created>1651608710737</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1651608710737</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,6 +246,7 @@
     <MESSAGE value="Formantando Numeros" />
     <MESSAGE value="Numeros de 0a99" />
     <MESSAGE value="Numeros Pares" />
-    <option name="LAST_COMMIT_MESSAGE" value="Numeros Pares" />
+    <MESSAGE value="Letras maiúsculas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Letras maiúsculas" />
   </component>
 </project>
