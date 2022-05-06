@@ -7,8 +7,7 @@ public class ContaBancariaTarifada extends ContaBancariaBasica {
     public ContaBancariaTarifada(String numeracao, double taxaJurosAnual) {
         super(numeracao, taxaJurosAnual);
     }
-
-
+    @Override
     public void sacar(double valor) throws OperacaoInvalidaException {
         if (valor <= 0) {
             throw new OperacaoInvalidaException("Valor de saque deve ser menor que 0");
@@ -23,7 +22,7 @@ public class ContaBancariaTarifada extends ContaBancariaBasica {
 
         saldo -= valor;
     }
-
+    @Override
     public void depositar(double valor)throws OperacaoInvalidaException {
         if (valor <= 0){
             throw new OperacaoInvalidaException ("Valor para deposito deve ser maior que 0");
