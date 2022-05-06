@@ -9,30 +9,26 @@ public class ContaBancariaTarifada extends ContaBancariaBasica {
     }
     @Override
     public void sacar(double valor) throws OperacaoInvalidaException {
+        double tarifa = 0.10;
         if (valor <= 0) {
             throw new OperacaoInvalidaException("Valor de saque deve ser menor que 0");
         }
-        if (getSaldo() < valor){
+        else if(getSaldo() < valor){
             throw new OperacaoInvalidaException("Valor de saque deve ser menor que o saldo atual");
+        }else{
+           this.saldo -= tarifa;
         }
-
-        if (getQuantidadeTransacoes() <= 0){
-            valor += valorPenalidade;
-        }
-
-        saldo -= valor;
+        this.saldo -= valor;
     }
     @Override
     public void depositar(double valor)throws OperacaoInvalidaException {
+        double tarifa = 0.10;
         if (valor <= 0){
             throw new OperacaoInvalidaException ("Valor para deposito deve ser maior que 0");
-        }
-
-        if (getQuantidadeTransacoes() <= 0){
-            valor += valorPenalidade;
+        }else{
+            valor -= tarifa;
         }
         saldo += valor;
-
     }
 
     public int getQuantidadeTransacoes() {
