@@ -1,4 +1,4 @@
-package quadrado;
+
 
 import retangulo_completo.FormaGeometrica;
 
