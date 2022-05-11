@@ -1,9 +1,4 @@
-
-
-import produtos.Dvd;
-import produtos.Livro;
-
-//import resumo_pedido.produtos.Livro;
+import produtos.*;
 
 public class Pedido {
     private double percentualDesconto;
@@ -16,10 +11,6 @@ public class Pedido {
 
     public double getPercentualDesconto() {
         return percentualDesconto;
-    }
-
-    public void setPercentualDesconto(double percentualDesconto) {
-        this.percentualDesconto = percentualDesconto;
     }
 
     public double calcularDesconto(){

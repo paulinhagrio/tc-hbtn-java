@@ -1,7 +1,4 @@
-
-
-import produtos.Dvd;
-import produtos.Livro;
+import produtos.*;
 
 import java.util.Locale;
 
