@@ -22,6 +22,14 @@ public class Pedido {
         this.percentualDesconto = percentualDesconto;
     }
 
+    public double calcularDesconto(){
+        return calcularTotal() * (getPercentualDesconto()/100);
+    }
+
+    public double calcularTotalComDesconto(){
+        return calcularTotal() - calcularDesconto();
+    }
+
     public double calcularTotal(){
         double totalProdutos = 0;
         for (int i=0; i< itens.length; i++){
@@ -32,7 +40,7 @@ public class Pedido {
     }
 
     public void apresentarResumoPedido(){
-        System.out.println("------- RESUMO PEDIDO -------");
+        System.out.printf("------- RESUMO PEDIDO -------\n");
 
         for (int i=0; i<itens.length; i++){
             if (itens[i].getProduto() instanceof Livro){
@@ -46,16 +54,10 @@ public class Pedido {
                     itens[i].getQuantidade(),
                     itens[i].getProduto().obterPrecoLiquido() * itens[i].getQuantidade());
         }
-        System.out.printf("----------------------------\n"
-        + "DESCONTO: %.2f\n" + "TOTAL PRODUTOS: %.2f\n----------------------------\n"+
-                "TOTAL PEDIDO: %.2f\n----------------------------\n", calcularDesconto(), calcularTotal(), calcularTotalComDesconto());
-    }
-
-    public double calcularDesconto(){
-        return calcularTotal() * (getPercentualDesconto()/100);
-    }
-
-    public double calcularTotalComDesconto(){
-        return calcularTotal() - calcularDesconto();
+        System.out.printf("----------------------------\n" +
+                        "DESCONTO: %.2f\nTOTAL PRODUTOS: %.2f\n" +
+                        "----------------------------\n" +
+                        "TOTAL PEDIDO: %.2f\n----------------------------\n",
+                calcularDesconto(),calcularTotal(),calcularTotalComDesconto());
     }
 }
