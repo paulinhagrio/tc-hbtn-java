@@ -1,5 +1,6 @@
 
-import atividade.Atividade;
+
+import atividades.Atividade;
 
 import java.util.ArrayList;
 
