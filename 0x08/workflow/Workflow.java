@@ -1,5 +1,5 @@
 
-import workflow.atividade.Atividade;
+import atividade.Atividade;
 
 import java.util.ArrayList;
 
