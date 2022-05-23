@@ -41,6 +41,7 @@ public class Agencia {
             if (buscarCliente(nomeCliente) != null){
                 return false;
             }
+            Cliente novoCliente = new Cliente(nomeCliente, valorTransacaoInicial);
 
             clientes.add(novoCliente);
 
