@@ -11,15 +11,8 @@ public class Comida {
         this.preco = preco;
     }
 
-
-
     @Override
     public String toString() {
-        return String.format(Locale.GERMANY,"[%s] %d R$ %d", nome, calorias, preco);
+        return String.format("[%s] %f R$ %f", nome, calorias, preco);
     }
-
-//    @Override
-//    public String toString() {
-//        return "[" + nome +"] " + calorias + " R$ " + preco;
-//    }
 }
