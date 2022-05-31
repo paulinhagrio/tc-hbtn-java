@@ -15,7 +15,7 @@ public class Comida {
 
     @Override
     public String toString() {
-        return String.format(Locale.GERMANY,"[%s] %f R$ %f", nome, calorias, preco);
+        return String.format(Locale.GERMANY,"[%s] %d R$ %d", nome, calorias, preco);
     }
 
 //    @Override
