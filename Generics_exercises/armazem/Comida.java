@@ -1,5 +1,5 @@
 
-
+import java.util.*;
 public class Comida {
     private String nome;
     private int calorias;
@@ -11,8 +11,15 @@ public class Comida {
         this.preco = preco;
     }
 
+
+
     @Override
     public String toString() {
-        return "[" + nome +"] " + calorias + " R$ " + preco;
+        return String.format(Locale.GERMANY,"[%s] %f R$ %f", nome, calorias, preco);
     }
+
+//    @Override
+//    public String toString() {
+//        return "[" + nome +"] " + calorias + " R$ " + preco;
+//    }
 }
