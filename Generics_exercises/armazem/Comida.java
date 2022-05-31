@@ -1,14 +1,12 @@
 
 
-
-
 import java.util.*;
 public class Comida {
     private String nome;
-    private int calorias;
-    private Double preco;
+    private double calorias;
+    private double preco;
 
-    public Comida(String nome, int calorias, Double preco) {
+    public Comida(String nome, double calorias, double preco) {
         this.nome = nome;
         this.calorias = calorias;
         this.preco = preco;

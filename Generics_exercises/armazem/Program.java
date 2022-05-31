@@ -1,3 +1,4 @@
+
 import java.util.Locale;
 
 public class Program {
@@ -8,7 +9,7 @@ public class Program {
         Comida comida3 = new Comida("pacoca", 165, 7.5);
 
         Eletronico eletronico1 = new Eletronico("Smart TV LED 32 HD LG", 1452.55);
-        Eletronico eletronico2 = new Eletronico("Nintendo Switch", 2990.0);
+        Eletronico eletronico2 = new Eletronico("Nintendo Switch", 2990);
 
         Armazem<Eletronico> armazem1 = new Armazem<>();
         armazem1.adicionarAoInventario("TV LG", eletronico1);

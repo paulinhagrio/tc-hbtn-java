@@ -3,9 +3,9 @@ import java.util.*;
 
 public class Eletronico {
     private String descricao;
-    private Double valor;
+    private double valor;
 
-    public Eletronico(String descricao, Double valor) {
+    public Eletronico(String descricao, double valor) {
         this.descricao = descricao;
         this.valor = valor;
     }
