@@ -1,4 +1,5 @@
 
+import java.util.*;
 
 public class Eletronico {
     private String descricao;
@@ -9,8 +10,24 @@ public class Eletronico {
         this.valor = valor;
     }
 
+    public String getDescricao() {
+        return descricao;
+    }
+
+    public Double getValor() {
+        return valor;
+    }
+
+
     @Override
     public String toString() {
-        return "[" + descricao +"] R$ " + valor;
+        return String.format(Locale.GERMANY, "[%s] R$ %f", this.getDescricao(), this.getValor());
+
+//    @Override
+//    public String toString() {
+//        return "[" + descricao +"] R$ " + valor;
+//    }
     }
 }
+
+
