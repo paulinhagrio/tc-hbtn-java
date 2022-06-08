@@ -1,3 +1,5 @@
+package somar;
+
 public class Program {
     public static void main(String[] args) {
         System.out.printf("%d\n", Numero.somar(24, 32));
