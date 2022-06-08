@@ -1,7 +1,10 @@
+package plano_mordor;
 
 
-import comida.*;
-import humor.*;
+
+import plano_mordor.humor.*;
+//import plano_mordor.comida.*;
+
 
 import java.util.List;
 
@@ -24,8 +27,8 @@ public class Personagem {
         return humor;
     }
 
-    public void comer(Comida[] comidas){
-        for (Comida comida : comidas ) {
+    public void comer(comida.Comida[] comidas){
+        for (comida.Comida comida : comidas ) {
               this.pontosDeFelicidade += comida.getPontosDeFelicidade();
         }
     }

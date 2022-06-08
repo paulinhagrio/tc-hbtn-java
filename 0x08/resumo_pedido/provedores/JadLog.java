@@ -1,4 +1,4 @@
-package provedores;
+package resumo_pedido.provedores;
 
 public class JadLog implements ProvedorFrete {
     public Frete calcularFrete(double peso, double valor){

@@ -4,9 +4,215 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da436523-3e22-4c2a-85a5-651db266d37a" name="Changes" comment="Letras maiúsculas">
-      <change afterPath="$PROJECT_DIR$/0x01/somar/Numero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x01/somar/Program.java" afterDir="false" />
+    <list default="true" id="da436523-3e22-4c2a-85a5-651db266d37a" name="Changes" comment="Criar, adicionar bibliotecas (dependências)">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02/divisao/Numero.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x02/divisao/Numero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x02/divisao/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x02/divisao/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/conta_basica/ContaBancariaBasica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/conta_basica/ContaBancariaBasica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/conta_basica/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/conta_basica/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/conta_basica/exceptions/OperacaoInvalidaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/conta_basica/exceptions/OperacaoInvalidaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaBasica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaBasica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaControlada.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaControlada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaTarifada.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaTarifada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/exceptions/OperacaoInvalidaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/exceptions/OperacaoInvalidaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/livraria/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/livraria/LivroEdicaoOuro.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/LivroEdicaoOuro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/livraria/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/livraria/exceptions/AutorInvalidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/exceptions/AutorInvalidoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/livraria/exceptions/LivroInvalidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/exceptions/LivroInvalidoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/salario/Departamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Departamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/salario/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Empregado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/salario/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03/salario/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x04/consistencia/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/consistencia/PersonagemGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x04/consistencia/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/consistencia/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x04/encapsulamento/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/encapsulamento/PersonagemGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x04/encapsulamento/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/encapsulamento/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x04/metodos/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/metodos/PersonagemGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x04/metodos/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/metodos/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x04/personagem/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/personagem/PersonagemGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x04/personagem/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/personagem/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x04/status/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/status/PersonagemGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x04/status/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/status/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/abstrata/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/abstrata/FormaGeometrica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/abstrata/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/abstrata/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/abstrata/Quadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/abstrata/Quadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/abstrata/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/abstrata/Retangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/forma/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/forma/FormaGeometrica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/forma/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/forma/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/heranca/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/heranca/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/heranca/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/heranca/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/heranca/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/heranca/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/quadrado/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/FormaGeometrica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/quadrado/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/quadrado/Quadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/Quadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/quadrado/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/Retangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/retangulo/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo/FormaGeometrica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/retangulo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/retangulo/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo/Retangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/retangulo_completo/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo_completo/FormaGeometrica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/retangulo_completo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo_completo/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x05/retangulo_completo/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo_completo/Retangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/ItemPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/ItemPedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/ItemPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/ItemPedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Dvd.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Dvd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/ProcessadorPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/ProcessadorPedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/Frete.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/Frete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/JadLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/JadLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/Loggi.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/Loggi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/ProvedorFrete.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/ProvedorFrete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/Sedex.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/Sedex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/TipoProvedorFrete.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/TipoProvedorFrete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/workflow/MaquinaWorkflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/MaquinaWorkflow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/workflow/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/workflow/Workflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/Workflow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividades/Atividade.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/Atividade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividades/CarregarVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/CarregarVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividades/CodificarVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/CodificarVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividades/EnviarEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/EnviarEmail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividades/ModificarStatusVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/ModificarStatusVideo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09/agregacao/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x09/agregacao/Empregado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09/agregacao/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x09/agregacao/Endereco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x09/agregacao/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x09/agregacao/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/Personagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/Personagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/BoloDeMel.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/BoloDeMel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cogumelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cogumelo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cram.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Lembas.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Lembas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Maca.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Maca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Melao.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Melao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/OutraComida.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/OutraComida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/humor/Feliz.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/Feliz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/humor/Humor.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/Humor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/humor/Irritado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/Irritado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/humor/MuitoFeliz.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/MuitoFeliz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/humor/Triste.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/Triste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/blog/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/blog/Blog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/blog/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/blog/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/blog/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/blog/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Autor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Blog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Categorias.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Categorias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/banco/Agencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/banco/Agencia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/banco/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/banco/Banco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/banco/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/banco/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/banco/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/banco/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/celular/Celular.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Celular.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/celular/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Contato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/celular/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Enum/celular/TipoNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/TipoNumero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/midias/Biblioteca.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Biblioteca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/midias/Jornal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Jornal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/midias/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/midias/Midia.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Midia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/midias/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics/midias/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Armazem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Armazem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Armazenavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Armazenavel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Comida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Comida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Eletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Eletronico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeComida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeComida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeEletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeEletronico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazenavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazenavel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Comida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Comida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Eletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Eletronico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/liquido/CalculadorDeSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/liquido/CalculadorDeSalario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/liquido/FolhaPagamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/liquido/FolhaPagamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/liquido/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/liquido/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/liquido/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/liquido/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/markup/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/markup/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda/markup/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/markup/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/ConsultaProdutos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/ConsultaProdutos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/CriterioFiltro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/CriterioFiltro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/TiposProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/TiposProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/predicado/ConsultaProdutos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/ConsultaProdutos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/predicado/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/predicado/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/predicado/TiposProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/TiposProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/cookies/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/cookies/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/cookies/PedidoCookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/cookies/PedidoCookie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/cookies/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/cookies/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/numeros/ManipularArrayNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/numeros/ManipularArrayNumeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/numeros/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/numeros/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/todo/ListaTodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/todo/ListaTodo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/todo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/todo/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/todo/Tarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/todo/Tarefa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serializacao/serializacao/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/Serializacao/serializacao/Estudante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serializacao/serializacao/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Serializacao/serializacao/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serializacao/serializacao/SerializarEstudantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Serializacao/serializacao/SerializarEstudantes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Map/analisador_frase/AnalisadorFrase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/analisador_frase/AnalisadorFrase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Map/analisador_frase/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/analisador_frase/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Map/duplicados/NumerosDuplicados.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/duplicados/NumerosDuplicados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Map/duplicados/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/duplicados/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Map/telefones/ListaTelefonica.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/telefones/ListaTelefonica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Map/telefones/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/telefones/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Map/telefones/Telefone.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/telefones/Telefone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Map/telefones_duplicados/ListaTelefonica.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/telefones_duplicados/ListaTelefonica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Map/telefones_duplicados/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/telefones_duplicados/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set_Map/telefones_duplicados/Telefone.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/telefones_duplicados/Telefone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/ConsultaPessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/ConsultaPessoas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/ConsultaPessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/ConsultaPessoas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/ConsultaPessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/ConsultaPessoas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/ConsultaPessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/ConsultaPessoas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/CategoriaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/CategoriaProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Consulta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/CategoriaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/CategoriaProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Consulta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/CategoriaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/CategoriaProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Consulta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/CategoriaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/CategoriaProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Consulta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/CategoriaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/CategoriaProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Consulta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/InteiroPositivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/InteiroPositivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tc-hbtn-java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +232,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="28cMcjXMHHsCLL0no44EXbM7evg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,51 +249,91 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-11",
+    "last_opened_file_path": "C:/Users/paulaguimaraes/IdeaProjects/tc-hbtn-java/Streams_Collector_Optional_exercicios/hobbies_por_cargo",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\paulaguimaraes\IdeaProjects\tc-hbtn-java\Streams_Collector_Optional_exercicios\hobbies_por_cargo" />
+      <recent name="C:\Users\paulaguimaraes\IdeaProjects\tc-hbtn-java\Streams_Collector_Optional_exercicios\media_salario_por_cargo" />
+      <recent name="C:\Users\paulaguimaraes\IdeaProjects\tc-hbtn-java\Streams_Collector_Optional_exercicios\quantidade_pessoas_por_cargo_idade" />
+      <recent name="C:\Users\paulaguimaraes\IdeaProjects\tc-hbtn-java\Streams_Collector_Optional_exercicios\quantidade_pessoas_por_cargo" />
+      <recent name="C:\Users\paulaguimaraes\IdeaProjects\tc-hbtn-java\Streams_Collectors_Optional\desconto_eletronicos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\paulaguimaraes\IdeaProjects\tc-hbtn-java\apache-maven\financeiro_api" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="predicado" />
+      <recent name="telefones_duplicados" />
+      <recent name="workflow.atividades" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Program">
-    <configuration name="Numeros0a99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Numeros0a99" />
-      <module name="tc-hbtn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumerosPares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumerosPares" />
-      <module name="tc-hbtn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.serializacao.Program">
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program" />
-      <module name="tc-hbtn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Program_c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Program_c" />
-      <module name="tc-hbtn-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="numeros.Numeros0a99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="numeros.Numeros0a99" />
+      <option name="MAIN_CLASS_NAME" value="hobbies_por_cargo.Program" />
       <module name="tc-hbtn-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="numeros.*" />
+          <option name="PATTERN" value="hobbies_por_cargo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="media_salario_por_cargo.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="media_salario_por_cargo.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="media_salario_por_cargo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quantidade_pessoas_por_cargo.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quantidade_pessoas_por_cargo.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quantidade_pessoas_por_cargo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quantidade_pessoas_por_cargo_idade.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quantidade_pessoas_por_cargo_idade.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quantidade_pessoas_por_cargo_idade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serializacao.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="serializacao.Program" />
+      <module name="tc-hbtn-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="serializacao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +343,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.serializacao.Program" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.Program_c" />
-        <item itemvalue="Application.NumerosPares" />
-        <item itemvalue="Application.Numeros0a99" />
-        <item itemvalue="Application.numeros.Numeros0a99" />
+        <item itemvalue="Application.media_salario_por_cargo.Program" />
+        <item itemvalue="Application.quantidade_pessoas_por_cargo_idade.Program" />
+        <item itemvalue="Application.quantidade_pessoas_por_cargo.Program" />
       </list>
     </recent_temporary>
   </component>
@@ -107,119 +360,350 @@
       <option name="presentableId" value="Default" />
       <updated>1651511509970</updated>
     </task>
-    <task id="LOCAL-00001" summary="Primeiro arquivo Java">
-      <created>1651512030574</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+    <task id="LOCAL-00066" summary="Inteiro">
+      <created>1652885928163</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
       <option name="project" value="LOCAL" />
-      <updated>1651512030574</updated>
+      <updated>1652885928163</updated>
     </task>
-    <task id="LOCAL-00002" summary="Primeiro arquivo Java">
-      <created>1651512147886</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+    <task id="LOCAL-00067" summary="Array">
+      <created>1652970159477</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
       <option name="project" value="LOCAL" />
-      <updated>1651512147886</updated>
+      <updated>1652970159477</updated>
     </task>
-    <task id="LOCAL-00003" summary="Escrevendo um endereço em java">
-      <created>1651515170765</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
+    <task id="LOCAL-00068" summary="Cookies">
+      <created>1652978466270</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
       <option name="project" value="LOCAL" />
-      <updated>1651515170765</updated>
+      <updated>1652978466270</updated>
     </task>
-    <task id="LOCAL-00004" summary="utilizando o float">
-      <created>1651516988864</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
+    <task id="LOCAL-00069" summary="Lista TODO">
+      <created>1652993573281</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
       <option name="project" value="LOCAL" />
-      <updated>1651516988864</updated>
+      <updated>1652993573281</updated>
     </task>
-    <task id="LOCAL-00005" summary="apagando linhas desnecessarias">
-      <created>1651517308166</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
+    <task id="LOCAL-00070" summary="Celular">
+      <created>1653075582251</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
       <option name="project" value="LOCAL" />
-      <updated>1651517308166</updated>
+      <updated>1653075582251</updated>
     </task>
-    <task id="LOCAL-00006" summary="apagando linhas desnecessarias_2">
-      <created>1651517488172</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
+    <task id="LOCAL-00071" summary="Banco">
+      <created>1653312749305</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
       <option name="project" value="LOCAL" />
-      <updated>1651517488172</updated>
+      <updated>1653312749305</updated>
     </task>
-    <task id="LOCAL-00007" summary="apagando linhas desnecessarias_3">
-      <created>1651517643086</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
+    <task id="LOCAL-00072" summary="Banco_2">
+      <created>1653312983236</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
       <option name="project" value="LOCAL" />
-      <updated>1651517643086</updated>
+      <updated>1653312983236</updated>
     </task>
-    <task id="LOCAL-00008" summary="utilizando substring">
-      <created>1651519106680</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
+    <task id="LOCAL-00073" summary="Contagem de Palavras">
+      <created>1653508765034</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
       <option name="project" value="LOCAL" />
-      <updated>1651519106680</updated>
+      <updated>1653508765034</updated>
     </task>
-    <task id="LOCAL-00009" summary="Concatenando strings">
-      <created>1651520257161</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
+    <task id="LOCAL-00074" summary="Duplicados">
+      <created>1653510708402</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
       <option name="project" value="LOCAL" />
-      <updated>1651520257161</updated>
+      <updated>1653510708402</updated>
     </task>
-    <task id="LOCAL-00010" summary="incluindo interrogação">
-      <created>1651520439982</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
+    <task id="LOCAL-00075" summary="Telefones">
+      <created>1653519034575</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
       <option name="project" value="LOCAL" />
-      <updated>1651520439982</updated>
+      <updated>1653519034575</updated>
     </task>
-    <task id="LOCAL-00011" summary="Formantando Numeros">
-      <created>1651523448680</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
+    <task id="LOCAL-00076" summary="Telefones Duplicados">
+      <created>1653524896280</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
       <option name="project" value="LOCAL" />
-      <updated>1651523448680</updated>
+      <updated>1653524896280</updated>
     </task>
-    <task id="LOCAL-00012" summary="Numeros de 0a99">
-      <created>1651601813715</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
+    <task id="LOCAL-00077" summary="Blog">
+      <created>1653598687340</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
       <option name="project" value="LOCAL" />
-      <updated>1651601813715</updated>
+      <updated>1653598687341</updated>
     </task>
-    <task id="LOCAL-00013" summary="Numeros de 0a99">
-      <created>1651602441127</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
+    <task id="LOCAL-00078" summary="Blog">
+      <created>1653598804855</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
       <option name="project" value="LOCAL" />
-      <updated>1651602441127</updated>
+      <updated>1653598804855</updated>
     </task>
-    <task id="LOCAL-00014" summary="Numeros de 0a99">
-      <created>1651603499460</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
+    <task id="LOCAL-00079" summary="Blog">
+      <created>1653599081170</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
       <option name="project" value="LOCAL" />
-      <updated>1651603499460</updated>
+      <updated>1653599081170</updated>
     </task>
-    <task id="LOCAL-00015" summary="Numeros Pares">
-      <created>1651606067912</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
+    <task id="LOCAL-00080" summary="Postagens Blog">
+      <created>1653682666821</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
       <option name="project" value="LOCAL" />
-      <updated>1651606067912</updated>
+      <updated>1653682666821</updated>
     </task>
-    <task id="LOCAL-00016" summary="Letras maiúsculas">
-      <created>1651608710737</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
+    <task id="LOCAL-00081" summary="Midias">
+      <created>1653942478403</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
       <option name="project" value="LOCAL" />
-      <updated>1651608710737</updated>
+      <updated>1653942478403</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00082" summary="Armazém de itens">
+      <created>1654019712797</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1654019712797</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Armazém de itens_2">
+      <created>1654020377373</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1654020377373</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Armazém de itens_3">
+      <created>1654022044725</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1654022044725</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Armazém de itens_4">
+      <created>1654022343819</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1654022343819</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Armazém de itens_5">
+      <created>1654022454538</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1654022454538</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Armazém de itens_6">
+      <created>1654022588654</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1654022588654</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Armazém de itens_7">
+      <created>1654022729726</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1654022729726</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Armazém de itens_8">
+      <created>1654023177306</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1654023177306</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Armazém de itens_9">
+      <created>1654023303579</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1654023303579</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Armazém de itens_10">
+      <created>1654023918772</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1654023918772</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Armazéns específicos">
+      <created>1654028099888</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1654028099888</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Armazéns específicos_2">
+      <created>1654028311260</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1654028311260</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Produto MarkUp">
+      <created>1654125892161</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1654125892161</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Salario Funcionario">
+      <created>1654175441145</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1654175441145</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Consultar Produtos">
+      <created>1654193276557</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1654193276557</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Consultar Produtos com Predicado">
+      <created>1654202748315</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1654202748315</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Relatórios Livros">
+      <created>1654524015429</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1654524015429</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Relatório Produto com maior preço">
+      <created>1654526710637</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526710637</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Relatório Produtos por preco minimo">
+      <created>1654528297953</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1654528297953</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Relatório Produtos por preco minimo_2">
+      <created>1654528449401</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1654528449401</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Relatório Pedidos com Eletrônicos">
+      <created>1654530285855</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1654530285855</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Relatório Pedidos com Eletrônicos">
+      <created>1654530497398</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1654530497398</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Relatório Pedidos com Eletrônicos">
+      <created>1654530883144</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1654530883144</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Eletronicos com 15% de desconto">
+      <created>1654532143461</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1654532143461</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Eletronicos com 15% de desconto">
+      <created>1654532235017</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1654532235017</updated>
+    </task>
+    <task id="LOCAL-00107" summary="Pessoas agrupadas por cargos em ordem reversa">
+      <created>1654544300676</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1654544300676</updated>
+    </task>
+    <task id="LOCAL-00108" summary="Pessoas agrupadas por cargos em ordem reversa">
+      <created>1654544463481</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1654544463481</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Contagem de pessoas por cargo">
+      <created>1654546353322</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1654546353323</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Contagem de pessoas por idade e cargo">
+      <created>1654547249921</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1654547249921</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Média salarial por cargo">
+      <created>1654548155573</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1654548155573</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Hobbies por cargo">
+      <created>1654549080541</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1654549080541</updated>
+    </task>
+    <task id="LOCAL-00113" summary="Serialização de Estudantes">
+      <created>1654648174858</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1654648174858</updated>
+    </task>
+    <task id="LOCAL-00114" summary="Criar, adicionar bibliotecas (dependências)">
+      <created>1654717210131</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1654717210132</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,19 +718,31 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Primeiro arquivo Java" />
-    <MESSAGE value="Escrevendo um endereço em java" />
-    <MESSAGE value="utilizando o float" />
-    <MESSAGE value="apagando linhas desnecessarias" />
-    <MESSAGE value="apagando linhas desnecessarias_2" />
-    <MESSAGE value="apagando linhas desnecessarias_3" />
-    <MESSAGE value="utilizando substring" />
-    <MESSAGE value="Concatenando strings" />
-    <MESSAGE value="incluindo interrogação" />
-    <MESSAGE value="Formantando Numeros" />
-    <MESSAGE value="Numeros de 0a99" />
-    <MESSAGE value="Numeros Pares" />
-    <MESSAGE value="Letras maiúsculas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Letras maiúsculas" />
+    <MESSAGE value="Armazém de itens_5" />
+    <MESSAGE value="Armazém de itens_6" />
+    <MESSAGE value="Armazém de itens_7" />
+    <MESSAGE value="Armazém de itens_8" />
+    <MESSAGE value="Armazém de itens_9" />
+    <MESSAGE value="Armazém de itens_10" />
+    <MESSAGE value="Armazéns específicos" />
+    <MESSAGE value="Armazéns específicos_2" />
+    <MESSAGE value="Produto MarkUp" />
+    <MESSAGE value="Salario Funcionario" />
+    <MESSAGE value="Consultar Produtos" />
+    <MESSAGE value="Consultar Produtos com Predicado" />
+    <MESSAGE value="Relatórios Livros" />
+    <MESSAGE value="Relatório Produto com maior preço" />
+    <MESSAGE value="Relatório Produtos por preco minimo" />
+    <MESSAGE value="Relatório Produtos por preco minimo_2" />
+    <MESSAGE value="Relatório Pedidos com Eletrônicos" />
+    <MESSAGE value="Eletronicos com 15% de desconto" />
+    <MESSAGE value="Pessoas agrupadas por cargos em ordem reversa" />
+    <MESSAGE value="Contagem de pessoas por cargo" />
+    <MESSAGE value="Contagem de pessoas por idade e cargo" />
+    <MESSAGE value="Média salarial por cargo" />
+    <MESSAGE value="Hobbies por cargo" />
+    <MESSAGE value="Serialização de Estudantes" />
+    <MESSAGE value="Criar, adicionar bibliotecas (dependências)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criar, adicionar bibliotecas (dependências)" />
   </component>
 </project>

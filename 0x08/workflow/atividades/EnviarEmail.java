@@ -1,4 +1,6 @@
-package atividades;
+package workflow.atividades;
+
+
 
 public class EnviarEmail implements Atividade {
     public void executar(){

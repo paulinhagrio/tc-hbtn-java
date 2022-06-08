@@ -1,4 +1,6 @@
+package predicado;
 
+//import consulta_produtos.Produto;
 
 import java.util.ArrayList;
 import java.util.List;

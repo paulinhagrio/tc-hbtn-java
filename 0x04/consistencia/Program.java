@@ -1,3 +1,5 @@
+package consistencia;
+
 import java.util.Locale;
 
 public class Program {

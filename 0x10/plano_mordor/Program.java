@@ -1,7 +1,9 @@
+package plano_mordor;
 
 
+import plano_mordor.comida.*;
 
-import comida.*;
+
 
 public class Program {
     public static void main(String[] args) {
@@ -10,7 +12,7 @@ public class Program {
         Personagem legolas = new Personagem();
         Personagem tauriel = new Personagem();
 
-        gandalf.comer(new Comida[] {
+        gandalf.comer(new comida.Comida[] {
                 new Maca(),
                 new Maca(),
                 new Cogumelo(),
@@ -19,7 +21,7 @@ public class Program {
 
         System.out.println(gandalf.toString());
 
-        bilbo.comer(new Comida[] {
+        bilbo.comer(new comida.Comida[] {
                 new BoloDeMel(),
                 new Maca(),
                 new Melao(),
@@ -28,7 +30,7 @@ public class Program {
 
         System.out.println(bilbo.toString());
 
-        legolas.comer(new Comida[] {
+        legolas.comer(new comida.Comida[] {
                 new BoloDeMel(),
                 new Maca(),
                 new Melao(),
@@ -40,7 +42,7 @@ public class Program {
 
         System.out.println(legolas.toString());
 
-        legolas.comer(new Comida[] {
+        legolas.comer(new comida.Comida[] {
                 new BoloDeMel(),
                 new Maca(),
                 new Melao(),

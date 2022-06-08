@@ -1,4 +1,9 @@
-import produtos.*;
+package resumo_pedido;
+
+//import produtos.*;
+
+import resumo_pedido.produtos.Livro;
+import resumo_pedido.produtos.Dvd;
 
 import java.util.Locale;
 

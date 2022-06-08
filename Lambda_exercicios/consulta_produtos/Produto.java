@@ -1,4 +1,4 @@
-
+package consulta_produtos;
 
 public class Produto {
     private String nome;

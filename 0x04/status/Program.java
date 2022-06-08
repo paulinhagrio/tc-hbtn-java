@@ -1,3 +1,4 @@
+package status;
 import java.util.Locale;
 
 public class Program {

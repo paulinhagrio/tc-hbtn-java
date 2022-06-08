@@ -1,6 +1,6 @@
-package comida;
+package plano_mordor.comida;
 
-public class BoloDeMel extends Comida{
+public class BoloDeMel extends comida.Comida {
 
 
     public BoloDeMel() {

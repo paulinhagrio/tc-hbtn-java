@@ -1,6 +1,7 @@
+package resumo_pedido;
 
 
-import provedores.ProvedorFrete;
+import resumo_pedido.provedores.ProvedorFrete;
 
 public class ProcessadorPedido {
     public ProvedorFrete provedorFrete;

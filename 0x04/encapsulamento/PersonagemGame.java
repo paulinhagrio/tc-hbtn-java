@@ -1,4 +1,4 @@
-
+package encapsulamento;
 
 public class PersonagemGame {
     private int saudeAtual;

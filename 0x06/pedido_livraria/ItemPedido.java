@@ -1,4 +1,8 @@
-import produtos.*;
+package pedido_livraria;
+
+
+import pedido_livraria.produtos.Produto;
+// import produtos.*;
 
 
 

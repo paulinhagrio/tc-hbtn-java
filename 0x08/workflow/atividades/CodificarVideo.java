@@ -1,4 +1,6 @@
-package atividades;
+package workflow.atividades;
+
+
 
 public class CodificarVideo implements Atividade {
     public void executar(){

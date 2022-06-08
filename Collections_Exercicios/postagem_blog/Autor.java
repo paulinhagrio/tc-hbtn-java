@@ -1,4 +1,4 @@
-
+package postagem_blog;
 
 public class Autor implements Comparable<Autor>{
     private String nome;

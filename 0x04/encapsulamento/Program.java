@@ -1,3 +1,5 @@
+package encapsulamento;
+
 import java.util.Locale;
 
 public class Program {

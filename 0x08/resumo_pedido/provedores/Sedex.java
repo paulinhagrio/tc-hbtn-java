@@ -1,11 +1,9 @@
-package provedores;
+package resumo_pedido.provedores;
 
 public class Sedex implements ProvedorFrete{
     public Frete calcularFrete(double peso, double valor){
 
         double valorFrete;
-
-
 
         if (peso > 1000){
             valorFrete = valor * 0.1;

@@ -1,4 +1,4 @@
-
+package postagem_blog;
 
 public class Post implements Comparable<Post>{
 
@@ -46,6 +46,7 @@ public class Post implements Comparable<Post>{
         this.categoria = categoria;
     }
 
+
     @Override
     public String toString() {
         return titulo;
@@ -55,4 +56,5 @@ public class Post implements Comparable<Post>{
     public int compareTo(Post o) {
         return this.titulo.compareTo(o.titulo);
     }
+
 }

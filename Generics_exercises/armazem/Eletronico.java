@@ -1,4 +1,4 @@
-
+package armazem;
 import java.util.*;
 
 public class Eletronico {

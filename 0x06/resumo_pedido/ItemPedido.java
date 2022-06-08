@@ -1,4 +1,10 @@
-import produtos.*;
+package resumo_pedido;
+
+// import produtos.*;
+
+import resumo_pedido.produtos.Produto;
+
+
 
 public class ItemPedido {
     private int quantidade;

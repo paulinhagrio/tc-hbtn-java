@@ -1,7 +1,9 @@
+package resumo_pedido;
 
-import provedores.JadLog;
-import provedores.Loggi;
-import provedores.Sedex;
+
+import resumo_pedido.provedores.JadLog;
+import resumo_pedido.provedores.Loggi;
+import resumo_pedido.provedores.Sedex;
 
 import java.util.Locale;
 

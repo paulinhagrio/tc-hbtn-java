@@ -1,4 +1,4 @@
-
+package pessoas_por_cargo_ordem_reversa;
 
 public class Pessoa implements Comparable<Pessoa>{
     private int codigo;

@@ -1,4 +1,8 @@
-import produtos.*;
+package resumo_pedido;
+
+//import produtos.*;
+
+import resumo_pedido.produtos.Livro;
 
 public class Pedido {
     private double percentualDesconto;

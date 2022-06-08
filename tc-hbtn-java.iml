@@ -6,11 +6,30 @@
       <sourceFolder url="file://$MODULE_DIR$/0x00-java-hello_world" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x01" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x01-numeros" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/0x01/maiusculo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x01/numeros" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/0x01/pares" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/0x01/somar" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x04" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0x10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Enum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/List" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TiposPrimitivos_Wrapper" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Set_Map" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Collections_Exercicios" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Generics_exercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lambda" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lambda_exercicios" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Serializacao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Streams_Collector_Optional_exercicios" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Streams_Collectors_Optional" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/apache-maven" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

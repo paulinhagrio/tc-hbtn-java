@@ -1,8 +1,11 @@
-import produtos.*;
+package pedido_livraria;
+
+// import produtos.*;
 
 public class Pedido {
     private double percentualDesconto;
     private ItemPedido[] itens;
+
 
     public Pedido(double percentualDesconto, ItemPedido[] itens) {
         this.percentualDesconto = percentualDesconto;
@@ -28,4 +31,8 @@ public class Pedido {
 
         return totalProdutos;
     }
+
+
+
+
 }

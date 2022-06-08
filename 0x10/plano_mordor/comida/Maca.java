@@ -1,6 +1,6 @@
-package comida;
+package plano_mordor.comida;
 
-public class Maca extends Comida {
+public class Maca extends comida.Comida {
     public Maca() {
         super(1);
     }

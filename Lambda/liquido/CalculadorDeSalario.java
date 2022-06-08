@@ -1,3 +1,4 @@
+package liquido;
 
 @FunctionalInterface
 public interface CalculadorDeSalario {

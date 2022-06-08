@@ -1,3 +1,5 @@
+package metodos;
+
 import java.util.Locale;
 
 public class Program {

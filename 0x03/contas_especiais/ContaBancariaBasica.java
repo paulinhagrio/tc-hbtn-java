@@ -1,4 +1,6 @@
-import exceptions.*;
+package contas_especiais;
+
+import contas_especiais.exceptions.OperacaoInvalidaException;
 
 public class ContaBancariaBasica {
     String numeracao;
