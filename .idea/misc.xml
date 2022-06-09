@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/apache-maven/pom.xml" />
         <option value="$PROJECT_DIR$/apache-maven/financeiro_api/pom.xml" />
+        <option value="$PROJECT_DIR$/apache-maven/financeiro-api/pom.xml" />
       </list>
     </option>
   </component>

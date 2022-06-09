@@ -5,214 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da436523-3e22-4c2a-85a5-651db266d37a" name="Changes" comment="Criar, adicionar bibliotecas (dependências)">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02/divisao/Numero.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x02/divisao/Numero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02/divisao/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x02/divisao/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/conta_basica/ContaBancariaBasica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/conta_basica/ContaBancariaBasica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/conta_basica/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/conta_basica/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/conta_basica/exceptions/OperacaoInvalidaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/conta_basica/exceptions/OperacaoInvalidaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaBasica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaBasica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaControlada.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaControlada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaTarifada.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/ContaBancariaTarifada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/contas_especiais/exceptions/OperacaoInvalidaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/contas_especiais/exceptions/OperacaoInvalidaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/livraria/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/livraria/LivroEdicaoOuro.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/LivroEdicaoOuro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/livraria/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/livraria/exceptions/AutorInvalidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/exceptions/AutorInvalidoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/livraria/exceptions/LivroInvalidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/livraria/exceptions/LivroInvalidoException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/salario/Departamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Departamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/salario/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Empregado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/salario/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Gerente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03/salario/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x03/salario/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/consistencia/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/consistencia/PersonagemGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/consistencia/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/consistencia/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/encapsulamento/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/encapsulamento/PersonagemGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/encapsulamento/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/encapsulamento/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/metodos/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/metodos/PersonagemGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/metodos/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/metodos/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/personagem/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/personagem/PersonagemGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/personagem/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/personagem/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/status/PersonagemGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/status/PersonagemGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04/status/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x04/status/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/abstrata/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/abstrata/FormaGeometrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/abstrata/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/abstrata/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/abstrata/Quadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/abstrata/Quadrado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/abstrata/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/abstrata/Retangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/forma/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/forma/FormaGeometrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/forma/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/forma/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/heranca/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/heranca/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/heranca/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/heranca/Cachorro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/heranca/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/heranca/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/quadrado/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/FormaGeometrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/quadrado/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/quadrado/Quadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/Quadrado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/quadrado/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/quadrado/Retangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo/FormaGeometrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo/Retangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo_completo/FormaGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo_completo/FormaGeometrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo_completo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo_completo/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x05/retangulo_completo/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x05/retangulo_completo/Retangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/ItemPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/ItemPedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/pedido_livraria/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/pedido_livraria/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/ItemPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/ItemPedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Dvd.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Dvd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x06/resumo_pedido/produtos/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/ProcessadorPedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/ProcessadorPedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/Frete.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/Frete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/JadLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/JadLog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/Loggi.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/Loggi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/ProvedorFrete.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/ProvedorFrete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/Sedex.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/Sedex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/TipoProvedorFrete.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/resumo_pedido/provedores/TipoProvedorFrete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/workflow/MaquinaWorkflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/MaquinaWorkflow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/workflow/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/workflow/Workflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/Workflow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividades/Atividade.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/Atividade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividades/CarregarVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/CarregarVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividades/CodificarVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/CodificarVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividades/EnviarEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/EnviarEmail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x08/workflow/atividades/ModificarStatusVideo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x08/workflow/atividades/ModificarStatusVideo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x09/agregacao/Empregado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x09/agregacao/Empregado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x09/agregacao/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x09/agregacao/Endereco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x09/agregacao/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x09/agregacao/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/Personagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/Personagem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/BoloDeMel.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/BoloDeMel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cogumelo.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cogumelo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cram.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Cram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Lembas.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Lembas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Maca.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Maca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/Melao.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/Melao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/comida/OutraComida.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/comida/OutraComida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/humor/Feliz.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/Feliz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/humor/Humor.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/Humor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/humor/Irritado.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/Irritado.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/humor/MuitoFeliz.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/MuitoFeliz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x10/plano_mordor/humor/Triste.java" beforeDir="false" afterPath="$PROJECT_DIR$/0x10/plano_mordor/humor/Triste.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/blog/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/blog/Blog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/blog/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/blog/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/blog/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/blog/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Autor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Blog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Blog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Categorias.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Categorias.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Collections_Exercicios/postagem_blog/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/banco/Agencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/banco/Agencia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/banco/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/banco/Banco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/banco/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/banco/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/banco/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/banco/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/celular/Celular.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Celular.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/celular/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Contato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/celular/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Enum/celular/TipoNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Enum/celular/TipoNumero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics/midias/Biblioteca.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Biblioteca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics/midias/Jornal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Jornal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics/midias/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics/midias/Midia.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Midia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics/midias/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics/midias/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics/midias/Video.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Armazem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Armazem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Armazenavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Armazenavel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Comida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Comida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Eletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Eletronico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazem.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeComida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeComida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeEletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/ArmazemDeEletronico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazenavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Armazenavel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Comida.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Comida.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Eletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Eletronico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generics_exercises/armazem_especifico/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda/liquido/CalculadorDeSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/liquido/CalculadorDeSalario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda/liquido/FolhaPagamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/liquido/FolhaPagamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda/liquido/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/liquido/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda/liquido/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/liquido/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda/markup/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/markup/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda/markup/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda/markup/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/ConsultaProdutos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/ConsultaProdutos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/CriterioFiltro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/CriterioFiltro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/TiposProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/consulta_produtos/TiposProduto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/predicado/ConsultaProdutos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/ConsultaProdutos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/predicado/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/predicado/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lambda_exercicios/predicado/TiposProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda_exercicios/predicado/TiposProduto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/cookies/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/cookies/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/cookies/PedidoCookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/cookies/PedidoCookie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/cookies/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/cookies/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/numeros/ManipularArrayNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/numeros/ManipularArrayNumeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/numeros/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/numeros/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/todo/ListaTodo.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/todo/ListaTodo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/todo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/todo/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/todo/Tarefa.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/todo/Tarefa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serializacao/serializacao/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/Serializacao/serializacao/Estudante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serializacao/serializacao/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Serializacao/serializacao/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Serializacao/serializacao/SerializarEstudantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Serializacao/serializacao/SerializarEstudantes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/analisador_frase/AnalisadorFrase.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/analisador_frase/AnalisadorFrase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/analisador_frase/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/analisador_frase/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/duplicados/NumerosDuplicados.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/duplicados/NumerosDuplicados.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/duplicados/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/duplicados/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/telefones/ListaTelefonica.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/telefones/ListaTelefonica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/telefones/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/telefones/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/telefones/Telefone.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/telefones/Telefone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/telefones_duplicados/ListaTelefonica.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/telefones_duplicados/ListaTelefonica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/telefones_duplicados/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/telefones_duplicados/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Set_Map/telefones_duplicados/Telefone.java" beforeDir="false" afterPath="$PROJECT_DIR$/Set_Map/telefones_duplicados/Telefone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/ConsultaPessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/ConsultaPessoas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/media_salario_por_cargo/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/ConsultaPessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/ConsultaPessoas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/pessoas_por_cargo_ordem_reversa/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/ConsultaPessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/ConsultaPessoas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/ConsultaPessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/ConsultaPessoas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collector_Optional_exercicios/quantidade_pessoas_por_cargo_idade/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/CategoriaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/CategoriaProduto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Consulta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/desconto_eletronicos/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/CategoriaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/CategoriaProduto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Consulta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/livros/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/CategoriaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/CategoriaProduto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Consulta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/maior_preco/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/CategoriaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/CategoriaProduto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Consulta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/pedidos_eletronico/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/CategoriaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/CategoriaProduto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Consulta.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Consulta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Pedido.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Streams_Collectors_Optional/preco_minimo/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/InteiroPositivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/InteiroPositivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/TiposPrimitivos_Wrapper/inteiro_positivo/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tc-hbtn-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tc-hbtn-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-maven/financeiro-api/src/FinanceiroMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-maven/financeiro-api/src/main/java/FinanceiroMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/apache-maven/financeiro-api/src/main/java/FinanceiroMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-maven/financeiro-api/target/classes/com/techcamps/financeiro/FinanceiroMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-maven/financeiro-api/target/financeiro-api-0.0.1-SNAPSHOT-jar-with-dependencies.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-maven/financeiro-api/target/financeiro-api-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-maven/financeiro-api/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-maven/financeiro-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-maven/financeiro-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apache-maven/financeiro-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,7 +56,8 @@
     "last_opened_file_path": "C:/Users/paulaguimaraes/IdeaProjects/tc-hbtn-java/Streams_Collector_Optional_exercicios/hobbies_por_cargo",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
